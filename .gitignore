@@ -1,0 +1,8 @@
+node_modules/
+.next/
+out/
+.vercel/
+.env
+yarn.lock
+package-lock.json
+tsconfig.tsbuildinfo
